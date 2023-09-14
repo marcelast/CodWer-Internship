@@ -1,0 +1,15 @@
+E:\C# - programming\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.exe
+E:\C# - programming\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.deps.json
+E:\C# - programming\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.runtimeconfig.json
+E:\C# - programming\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.dll
+E:\C# - programming\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.pdb
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.csproj.AssemblyReference.cache
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.AssemblyInfoInputs.cache
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.AssemblyInfo.cs
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.csproj.CoreCompileInputs.cache
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.dll
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\refint\DelegatesEvents.dll
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.pdb
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.genruntimeconfig.cache
+E:\C# - programming\DelegatesEvents\obj\Debug\net6.0\ref\DelegatesEvents.dll
