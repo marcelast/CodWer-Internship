@@ -1,0 +1,15 @@
+E:\C# - programming\Ex_2.1-3\bin\Debug\net6.0\Ex_2.1-3.exe
+E:\C# - programming\Ex_2.1-3\bin\Debug\net6.0\Ex_2.1-3.deps.json
+E:\C# - programming\Ex_2.1-3\bin\Debug\net6.0\Ex_2.1-3.runtimeconfig.json
+E:\C# - programming\Ex_2.1-3\bin\Debug\net6.0\Ex_2.1-3.dll
+E:\C# - programming\Ex_2.1-3\bin\Debug\net6.0\Ex_2.1-3.pdb
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.csproj.AssemblyReference.cache
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.AssemblyInfoInputs.cache
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.AssemblyInfo.cs
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.csproj.CoreCompileInputs.cache
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.dll
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\refint\Ex_2.1-3.dll
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.pdb
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\Ex_2.1-3.genruntimeconfig.cache
+E:\C# - programming\Ex_2.1-3\obj\Debug\net6.0\ref\Ex_2.1-3.dll
