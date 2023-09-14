@@ -1,0 +1,5 @@
+E:\C# - programming\C#-program1\obj\Release\net6.0\C#-program1.csproj.AssemblyReference.cache
+E:\C# - programming\C#-program1\obj\Release\net6.0\C#-program1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# - programming\C#-program1\obj\Release\net6.0\C#-program1.AssemblyInfoInputs.cache
+E:\C# - programming\C#-program1\obj\Release\net6.0\C#-program1.AssemblyInfo.cs
+E:\C# - programming\C#-program1\obj\Release\net6.0\C#-program1.csproj.CoreCompileInputs.cache
