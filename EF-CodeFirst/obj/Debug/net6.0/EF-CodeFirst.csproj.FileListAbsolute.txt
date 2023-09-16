@@ -1,0 +1,142 @@
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.exe
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.deps.json
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.runtimeconfig.json
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.pdb
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Azure.Core.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Azure.Identity.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Humanizer.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.CodeDom.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Memory.Data.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Text.Json.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\C# - programming\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.csproj.AssemblyReference.cache
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.AssemblyInfoInputs.cache
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.AssemblyInfo.cs
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.csproj.CoreCompileInputs.cache
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.csproj.CopyComplete
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.dll
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\refint\EF-CodeFirst.dll
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.pdb
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.genruntimeconfig.cache
+E:\C# - programming\EF-CodeFirst\obj\Debug\net6.0\ref\EF-CodeFirst.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.exe
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.deps.json
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.runtimeconfig.json
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\EF-CodeFirst.pdb
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Azure.Core.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Azure.Identity.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Humanizer.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.CodeDom.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Text.Json.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Exercitii backend\EF-CodeFirst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.csproj.AssemblyReference.cache
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.AssemblyInfoInputs.cache
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.AssemblyInfo.cs
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.csproj.CoreCompileInputs.cache
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.csproj.CopyComplete
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.dll
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\refint\EF-CodeFirst.dll
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.pdb
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\EF-CodeFirst.genruntimeconfig.cache
+E:\Exercitii backend\EF-CodeFirst\obj\Debug\net6.0\ref\EF-CodeFirst.dll
